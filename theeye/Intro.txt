@@ -3,3 +3,5 @@
 
 						"The EYE"
 The EYE is a News portal. It is a Dynamic website developed using PHP.
+login: admin
+psw:admin
