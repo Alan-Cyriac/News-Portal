@@ -1,0 +1,5 @@
+<h1> Created by Alan Cyriac || Contact: alancyriac1996@gmail.com </h1>
+<h1> CSE Batch:-2015-2019. </h1>
+
+						"The EYE"
+The EYE is a News portal. It is a Dynamic website developed using PHP.
